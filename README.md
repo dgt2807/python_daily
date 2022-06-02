@@ -1,6 +1,6 @@
 # python daily 2022
+### (NO)_notonly
 ## 30th May
-###(NO)_notonly
 >1. list 
 <br> -indexing & slicing(NO)
 >2. tuple
