@@ -1,5 +1,5 @@
 # python daily 2022
-#### (NO)_notonly&nbsp; [line -]_location&nbsp; ' _ ' _explanation
+#### #(NO)_notonly&nbsp; #[line -]_location&nbsp; #' _ ' _explanation
 ## 30th May
 >1. list 
 <br> -indexing & slicing(NO)
