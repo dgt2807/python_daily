@@ -24,4 +24,15 @@
 <br> -중첩(NO)
 <br> -list comprehension
 >4. coffee.py (conda prompt 실행)
-
+## 1st June
+>1. for문과 list [line55]
+>2. while문과 dictionary
+>3. function
+<br> -함수 선언부, 메인코드
+<br> -(global,local) variable  [line362]
+<br> -parameter argument 
+>4. 다양한 입출력 
+<br> -open() close()
+<br> -r w a
+<br> -readline() readlines() _list
+<br> -with as
