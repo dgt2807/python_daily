@@ -53,5 +53,6 @@
 <br> -예외분류_오류
 <br> -오류회피
 <br> -raise 오류발생
-
-
+>4. 내장/외장(라이브러리)함수
+<br> -enumerate, filter & lambda, zip
+<br> -time_time.sleep, random+random.shuffle
